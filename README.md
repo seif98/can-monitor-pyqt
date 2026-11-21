@@ -23,4 +23,6 @@ python tests/test_core.py -v
 - `tests/` - unit tests
 - `main.py` - PyQt6 application
 
-<!-- TODO: add screenshot + demo GIF -->
+<img width="1920" height="1080" alt="Main_window" src="https://github.com/user-attachments/assets/e23c7911-ea29-468b-bf20-bc4203c1f5d6" />
+
+<img width="1901" height="977" alt="record" src="https://github.com/user-attachments/assets/76f371d8-e112-4b32-bdbd-949278b8fd7a" />
