@@ -1,3 +1,7 @@
+<img width="1901" height="977" alt="record" src="https://github.com/user-attachments/assets/76f371d8-e112-4b32-bdbd-949278b8fd7a" />
+
+<img width="1097" height="781" alt="image" src="https://github.com/user-attachments/assets/f549ca5f-600f-4aee-914e-6ac4b7fffe00" />
+
 # CAN Monitor
 
 A small desktop tool (PyQt6 + pyqtgraph) to view, plot, filter and log CAN traffic.
@@ -22,7 +26,3 @@ python tests/test_core.py -v
 - `core/` - GUI-free logic
 - `tests/` - unit tests
 - `main.py` - PyQt6 application
-
-<img width="1920" height="1080" alt="Main_window" src="https://github.com/user-attachments/assets/e23c7911-ea29-468b-bf20-bc4203c1f5d6" />
-
-<img width="1901" height="977" alt="record" src="https://github.com/user-attachments/assets/76f371d8-e112-4b32-bdbd-949278b8fd7a" />
